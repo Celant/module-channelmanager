@@ -8,9 +8,7 @@
             "email": "rick.2889@gmail.com"
         }
     ],
-    "require": {
-        "wildphp/wild-irc-bot": "^2.0@alpha"
-    },
+    "require": {},
     "autoload": {
         "psr-4": {
             "WildPHP\\Modules\\ChannelManager\\": "src"
